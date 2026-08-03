@@ -1,0 +1,6 @@
+build:
+  symlink-install: true
+
+test:
+  event-handlers:
+    - console_direct+
