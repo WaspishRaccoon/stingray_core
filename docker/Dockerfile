@@ -7,6 +7,7 @@ RUN apt-get update && apt-get install -y \
     libasio-dev netcat socat \
     ros-humble-rclcpp ros-humble-std-msgs ros-humble-sensor-msgs ros-humble-udp-msgs \
     bash bash-completion command-not-found less \
+    ros-humble-diagnostic-updater ros-humble-diagnostic-msgs \
     python3-colorama \
     ros-humble-rqt \
     ros-humble-rqt-common-plugins \
